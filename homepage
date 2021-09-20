@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - homepage</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<html>
+  <head>
+    <title>Home</title>
+    <h1><strong>ASCII</strong></h1>
+    <h3>By: Diego Keller</h3>
+    <img src="https://cdn.worldvectorlogo.com/logos/ascii-group.svg" width = "20%" hieght = "20%" alt="centered image" >
+  <body>
+      <ul> 
+        <li><a href="/epf.html">Explanation of Intended Purpose/Function</a></li>
+        <li><a href="/fpf.html">Fact About Purpose/Function</a></li>
+        <li><a href="/beffect.html">Beneficial Effect</a></li>
+        <li><a href="/heffect.html">Harmful Effect</a></li>
+        <li><a href="/seffect.html">How Effect Relates to Society, Economy, or Culture</a></li>
+        <li><a href="/data.html">How Data is Consumed, Produced, Or Transfored</a></li>
+        <li><a href="/ds.html">Data Storage Concern</a></li>
+        <li><a href="/ref.html">Refrences</a></li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ASCII-Table-wide.svg/2560px-ASCII-Table-wide.svg.png" height = "50%" width = "50%">
+    </body>
+    </html>
+<!-- partial -->
+  
+</body>
+</html>
